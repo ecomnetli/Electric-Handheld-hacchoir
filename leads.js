@@ -30,7 +30,7 @@
 
         // Fire off the request to /form.php
         request = $.ajax({
-            url: "https://orderdash.store/go/?order=Ww4PTMIJjtacdreAnKdIYxIi1ZF28l",
+            url: "https://mena.orderdash.store/go/?order=PEnK9TtepVLZkvC6XztYWO8ZPi8eEM",
             type: "post",
             data: serializedData
         });
